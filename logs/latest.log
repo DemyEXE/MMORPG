@@ -1,0 +1,62 @@
+[00:58:22] [Server thread/INFO]: --------------------- [ PlugMan ] ---------------------
+[00:58:22] [Server thread/INFO]: - /plugman help - Displays this.
+[00:58:22] [Server thread/INFO]: - /plugman list [-v] - List all plugins (-v shows versions).
+[00:58:22] [Server thread/INFO]: - /plugman dump - Dump plugin names and versions to file.
+[00:58:22] [Server thread/INFO]: - /plugman info <plugin> - Get info on a plugin.
+[00:58:22] [Server thread/INFO]: - /plugman usage <plugin> - List commands a plugin has registered.
+[00:58:22] [Server thread/INFO]: - /plugman lookup <command> - Find the plugin a command is registered to.
+[00:58:22] [Server thread/INFO]: - /plugman enable <plugin|all> - Enable a plugin.
+[00:58:22] [Server thread/INFO]: - /plugman disable <plugin|all> - Disable a plugin.
+[00:58:22] [Server thread/INFO]: - /plugman restart <plugin|all> - Restart a plugin.
+[00:58:22] [Server thread/INFO]: - /plugman load <plugin> - Load a plugin.
+[00:58:22] [Server thread/INFO]: - /plugman download <direct|spigot> <ID|URL> - Download and load a plugin.
+[00:58:22] [Server thread/INFO]: - /plugman reload <plugin|all> - Reload a plugin.
+[00:58:22] [Server thread/INFO]: - /plugman unload <plugin> - Unload a plugin.
+[00:58:22] [Server thread/INFO]: - /plugman check <plugin|all> [-f] - Check if a plugin is up-to-date (-f dumps to file for all).
+[00:58:29] [Server thread/INFO]: [PlugMan] That is not a valid plugin.
+[00:58:29] [Server thread/INFO]: - Command: Unload
+[00:58:29] [Server thread/INFO]: - Description: Unload a plugin.
+[00:58:29] [Server thread/INFO]: - Usage: /plugman unload <plugin>
+[00:58:42] [Server thread/INFO]: [PlugMan] That is not a valid plugin.
+[00:58:42] [Server thread/INFO]: - Command: Unload
+[00:58:42] [Server thread/INFO]: - Description: Unload a plugin.
+[00:58:42] [Server thread/INFO]: - Usage: /plugman unload <plugin>
+[00:58:46] [Server thread/INFO]: [PlugMan] That is not a valid plugin.
+[00:58:46] [Server thread/INFO]: - Command: Unload
+[00:58:46] [Server thread/INFO]: - Description: Unload a plugin.
+[00:58:46] [Server thread/INFO]: - Usage: /plugman unload <plugin>
+[00:58:51] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[00:58:59] [Server thread/INFO]: [BossShopPro] Disabling BossShopPro v2.1.0-SNAPSHOT
+[00:58:59] [Server thread/INFO]: [BossShopPro] Disabling... bye!
+[00:59:03] [Server thread/INFO]: [PlugMan] BossShopPro has been unloaded.
+[00:59:25] [Server thread/INFO]: [BossShopPro] Enabling BossShopPro v2.0.9
+[00:59:25] [Server thread/INFO]: [BossShopPro] Loading data...
+[00:59:25] [Server thread/INFO]: [PlugMan] BossShopPro has been loaded and enabled.
+[00:59:26] [Craft Scheduler Thread - 42/INFO]: [BossShopPro] Loaded 11 Shops!
+[00:59:26] [Craft Scheduler Thread - 42/WARN]: [BossShopPro] Vault was not found... You need it if you want to work with Permissions, Permission Groups or Money! Get it there: http://dev.bukkit.org/server-mods/vault/
+[01:05:00] [Server thread/INFO]: Stopping the server
+[01:05:00] [Server thread/INFO]: Stopping server
+[01:05:00] [Server thread/INFO]: [BossShopPro] Disabling BossShopPro v2.0.9
+[01:05:00] [Server thread/INFO]: [BossShopPro] Disabling... bye!
+[01:05:00] [Server thread/INFO]: [PlugManX] Disabling PlugManX v2.3.1
+[01:05:00] [Server thread/INFO]: [CustomAdvancements] Disabling CustomAdvancements v1.2.7
+[01:05:00] [Server thread/INFO]: [CustomAdvancements] Disabled successfully
+[01:05:00] [Server thread/INFO]: [MMOItems] Disabling MMOItems v6.9.2-SNAPSHOT
+[01:05:00] [Server thread/INFO]: [MMOCore] Disabling MMOCore v1.11.1
+[01:05:00] [Server thread/INFO]: [MythicLib] Disabling MythicLib v1.5
+[01:05:00] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.1-b861
+[01:05:00] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v2.18
+[01:05:00] [Server thread/INFO]: Disabling Essentials v2.19.7
+[01:05:00] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.58
+[01:05:00] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[01:05:00] [Server thread/INFO]: [LuckPerms] Closing storage...
+[01:05:00] [Server thread/INFO]: [LuckPerms] Goodbye!
+[01:05:00] [Server thread/INFO]: Saving players
+[01:05:00] [Server thread/INFO]: Saving worlds
+[01:05:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:05:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:05:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:05:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:05:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:05:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:05:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

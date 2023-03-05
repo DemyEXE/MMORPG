@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 2.12.223.85
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677970376179
+  login: 1677969992515
+money: '0'
+logoutlocation:
+  world: 45f25937-10e8-4630-b0a2-91efd65b66c4
+  world-name: world
+  x: -59.38886455223618
+  y: 69.0
+  z: 308.53821813696777
+  yaw: 123.90982055664062
+  pitch: 33.59959411621094
+last-account-name: _Demy
